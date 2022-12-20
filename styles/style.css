@@ -37,7 +37,7 @@ section {
   gap: 3rem ;
   flex-wrap: wrap;
 align-items: center;
-justify-content: center;
+  margin: 1.2rem auto;
   width: 50%;
 }
 
